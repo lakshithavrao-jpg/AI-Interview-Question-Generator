@@ -1,0 +1,116 @@
+[
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Technical",
+        "question": "What is supervised learning?",
+        "keywords": [
+            "labeled data",
+            "training data",
+            "classification",
+            "regression",
+            "prediction"
+        ],
+        "ideal_answer": "Supervised learning is a machine learning approach where a model learns from labeled training data to make predictions. Common supervised learning tasks include classification and regression."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Technical",
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "keywords": [
+            "labeled data",
+            "unlabeled data",
+            "classification",
+            "regression",
+            "clustering"
+        ],
+        "ideal_answer": "Supervised learning uses labeled data and is commonly used for classification and regression. Unsupervised learning uses unlabeled data and is commonly used for clustering and pattern discovery."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Technical",
+        "question": "What is overfitting in machine learning?",
+        "keywords": [
+            "training data",
+            "test data",
+            "generalization",
+            "complex model",
+            "regularization"
+        ],
+        "ideal_answer": "Overfitting occurs when a machine learning model learns the training data too closely, including noise, and performs poorly on unseen data. Techniques such as regularization, cross-validation and simpler models can help reduce overfitting."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Technical",
+        "question": "What is the purpose of train and test datasets?",
+        "keywords": [
+            "training",
+            "testing",
+            "unseen data",
+            "model performance",
+            "evaluation"
+        ],
+        "ideal_answer": "The training dataset is used to train the machine learning model, while the test dataset is used to evaluate how well the trained model performs on unseen data."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "HR",
+        "question": "Tell me about yourself.",
+        "keywords": [
+            "education",
+            "skills",
+            "projects",
+            "interest",
+            "career"
+        ],
+        "ideal_answer": "I am an engineering student interested in data science and artificial intelligence. I have developed projects using Python, machine learning and data analysis, and I am interested in starting my career in a data-driven role."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "HR",
+        "question": "Why do you want to become a Data Scientist?",
+        "keywords": [
+            "data",
+            "problem solving",
+            "machine learning",
+            "analysis",
+            "decision making"
+        ],
+        "ideal_answer": "I want to become a Data Scientist because I enjoy working with data, solving problems and applying machine learning techniques to extract useful insights and support better decisions."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Situation-based",
+        "question": "Suppose your machine learning model performs well on training data but poorly on test data. What would you do?",
+        "keywords": [
+            "overfitting",
+            "cross validation",
+            "regularization",
+            "feature selection",
+            "training data",
+            "test data"
+        ],
+        "ideal_answer": "I would first identify whether the model is overfitting. I would use cross-validation, examine the features, simplify the model and consider regularization. I would then evaluate the changes using suitable validation metrics."
+    },
+    {
+        "role": "Data Scientist",
+        "experience": "Fresher",
+        "category": "Situation-based",
+        "question": "You receive a dataset with many missing values. How would you handle it?",
+        "keywords": [
+            "missing values",
+            "mean",
+            "median",
+            "mode",
+            "remove",
+            "imputation"
+        ],
+        "ideal_answer": "I would first analyze the amount and pattern of missing data. Depending on the situation, I could remove rows or columns, or use techniques such as mean, median or mode imputation."
+    }
+]
